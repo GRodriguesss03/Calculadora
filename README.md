@@ -1,4 +1,4 @@
-# 📊 Calculadora de Média de Alunos#
+# 📊 Calculadora de Média de Alunos #
 
 *Este projeto consiste em uma calculadora simples desenvolvida em **Python**, criada para calcular a média de um aluno a partir de suas notas.*
 *O programa recebe as notas, realiza o cálculo da média e apresenta o resultado, indicando de forma simples o desempenho do aluno.*
